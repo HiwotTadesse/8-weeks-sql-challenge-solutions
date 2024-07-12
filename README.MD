@@ -1,0 +1,8 @@
+# 8-Week-SQL-Challenge
+#8WeekSQLChallenge, https://8weeksqlchallenge.com: Solutions for SQL Case Studies
+
+| Name                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                        | Status               |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| **[Case Study #1 - Danny's Diner](https://github.com/muryulia/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)**              | Danny’s Diner is in need of your assistance to help the restaurant stay afloat. Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. | Completed           |
+
+Some cases include duplicate pre-processing, exploratory data analysis and summary statistics.
